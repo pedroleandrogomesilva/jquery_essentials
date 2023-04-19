@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<div class="jquery_essentials">#BoraProgramar!</div>
+<div class="jquery_essentials">Olá, Mundo! #BoraProgramar!</div>
 
 <script src="../js/jquery.js"></script>
 <script src="script.js"></script>

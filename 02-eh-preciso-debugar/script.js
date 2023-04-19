@@ -25,4 +25,7 @@ if(cadastro === true){
     console.warn("Erro ao cadastrar!")
 }
 
+// console.assert(cadastro === true, "Cadastro não realizado!");
+// console.log("Cadastro realizado");
+
 console.groupEnd();
