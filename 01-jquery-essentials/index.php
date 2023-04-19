@@ -9,5 +9,11 @@
 </head>
 <body>
 
+<div class="jquery_essentials">#BoraProgramar!</div>
+
+<script src="../js/angular.js"></script>
+<script src="../js/jquery.js"></script>
+<script src="../js/prototype.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
